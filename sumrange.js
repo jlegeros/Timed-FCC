@@ -1,6 +1,6 @@
 /*
 CareerDevs Timed algorithm challenge
-Free Code Camp - Sum Range
+freeCodeCamp - Sum Range
 TIME: 2:56
 */
 

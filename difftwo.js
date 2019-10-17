@@ -1,6 +1,6 @@
 /*
 CareerDevs Timed algorithm challenge
-Free Code Camp - Diff Two Arrays
+freeCodeCamp - Diff Two Arrays
 TIME: 10:16
 */
 
