@@ -30,7 +30,6 @@ function smallestCommons(arr) {
     }
     count++;
   }
-  console.log(typeof (multiple));
   return multiple;
 }
 
